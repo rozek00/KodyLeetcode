@@ -1,3 +1,5 @@
+//Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
 public class Solution {
     public double MyPow(double x, int n) 
     {
